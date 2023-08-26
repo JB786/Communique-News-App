@@ -2,240 +2,265 @@
     "status": "ok",
     "totalResults": 38,
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT News Desk",
-            "title": "Hurricane Hilary Live: California braces for ‘catastrophic floods’ amid downpour - Hindustan Times",
-            "description": "Hurricane Hilary Live Updates: Forecasters noted that this is the first tropical storm to hit Southern California in 84 years.",
-            "url": "https://www.hindustantimes.com/world-news/hurricane-hilary-tracker-live-latest-updates-21-aug-2023-tropical-stom-california-mexico-us-news-101692593519954.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/AP08-21-2023-000006B-0_1692593948419_1692593986705.jpg",
-            "publishedAt": "2023-08-21T12:15:03Z",
-            "content": "Hurricane Hilary Live Updates: The tropical storm Hilary reached the Mexican coast, far from heavily populated areas, about 150 miles (250 kilometers) south of Ensenada on Sunday. It then moved throu… [+10957 chars]"
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": null,
-            "title": "UK Child-Killer Nurse Sentenced To Life In Jail With No Chance Of Release - NDTV",
-            "description": "Britain's most prolific child killer of modern times was jailed for life on Monday, with no prospect of release, for murdering seven newborn babies and attempting to kill six others in her care.",
-            "url": "https://www.ndtv.com/world-news/uk-child-killer-nurse-lucy-letby-sentenced-to-life-in-jail-4316201",
-            "urlToImage": "https://c.ndtvimg.com/2023-08/br77oh3s_lucy-letby-afp_625x300_19_August_23.jpg",
-            "publishedAt": "2023-08-21T12:10:42Z",
-            "content": "Lucy Letby was arrested following a string of baby deaths at a UK hospital between 2015 and 2016 (File)\r\nBritain's most prolific child killer of modern times on Monday began the rest of her life behi… [+2447 chars]"
+        "author": "NDTV Sports Desk",
+        "title": "Why R Praggnanandhaa Lost To Magnus Carlsen? Viswanathan Anand Raises 'Fatigue' Argument - NDTV Sports",
+        "description": "R Praggnanandhaa finished as runner-up but qualified for the FIDE Candidates tournament thanks to his impressive performances.",
+        "url": "https://sports.ndtv.com/chess/why-r-praggnanandhaa-lost-to-magnus-carlsen-viswanathan-anand-raises-fatigue-argument-4329318",
+        "urlToImage": "https://c.ndtvimg.com/2023-08/vpbc7uk8_r-praggnanandhaa-806_625x300_22_August_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+        "publishedAt": "2023-08-25T13:35:00Z",
+        "content": "Legendary chess player Viswanathan Anand believes that R Praggnanandhaa was 'fatigued' during the Chess World Cup final against Marnus Carlsen and that can be a result behind his defeat. The summit c… [+2088 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Livemint"
-            },
-            "author": "HT Brand Studio",
-            "title": "TECNO unveils innovations at the World of TECNOlogy: POVA 5 Series, more | Mint - Mint",
-            "description": "TECNO hosted the ‘World of TECNOlogy’ showcasing its latest technologies, including the POVA 5 Series and MEGABOOK T1 laptop.",
-            "url": "https://www.livemint.com/brand-stories/tecno-unveils-innovations-at-the-world-of-tecnology-pova-5-series-more-11692613443525.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/21/600x338/tecno_2_1692615908889_1692616016843.jpg",
-            "publishedAt": "2023-08-21T10:33:25Z",
-            "content": "TECNO hosted the first edition of the World of TECNOlogy\" from 11th -13th August at DLF Avenue, Saket. The biggest tech extravaganza was an exciting showcase of the best-in-class technologies from TE… [+6139 chars]"
+        "author": null,
+        "title": "India’s Aditya L1 mission – Know about ISRO’s mission to study the Sun – Objective, launch date, payloads - The Financial Express",
+        "description": null,
+        "url": "https://families.google.com/service-restricted",
+        "urlToImage": null,
+        "publishedAt": "2023-08-25T13:27:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
         },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "TIMESOFINDIA.COM",
-            "title": "How did Sunny Deol escape Rs 56 crore due e-auction? Gadar-2 star under fire from Congress - Times of India",
-            "description": "In a significant turn of events, actor and MP Sunny Deol has received substantial relief as Bank of Baroda (BOB) retracts the e-auction process against his Juhu property in Mumbai. The bank's decision comes merely a day after it advertised the e-auct",
-            "url": "https://timesofindia.indiatimes.com/videos/toi-original/how-did-sunny-deol-escape-rs-56-crore-due-e-auction-gadar-2-star-under-fire-from-congress/videoshow/102905860.cms",
-            "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-102905860,imgsize-69422.cms",
-            "publishedAt": "2023-08-21T10:22:20Z",
-            "content": "Aug 21, 2023, 03:52PM ISTSource: TOI.inIn a significant turn of events, actor and MP Sunny Deol has received substantial relief as Bank of Baroda (BOB) retracts the e-auction process against his Juhu… [+1216 chars]"
+        "author": "HT Entertainment Desk",
+        "title": "Dream Girl 2 Twitter review: Internet is divided on Ayushmann Khurrana's comedy - Hindustan Times",
+        "description": "Dream Girl 2 Twitter review: Although many fans were impressed with Ayushmann Khurrana's performance as Pooja, some also felt that the film was rushed. | Bollywood",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/dream-girl-2-twitter-review-101692967457861.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/25/1600x900/dream_girl_2_1692968119188_1692968119557.jpg",
+        "publishedAt": "2023-08-25T13:22:10Z",
+        "content": "Ayushmann Khurrana and Ananya Panday's Dream Girl 2 released in cinemas on August 25. Many who watched the sequel to the 2019 film took to Twitter or X to share their reviews. Reaction was polarised … [+2455 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sporting News"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "BusinessLine"
-            },
-            "author": "BL Internet Desk",
-            "title": "Share Market Highlights 21 August 2023: Sensex gains 267 pts, Nifty ends at 19393; Jio Financial Services loses 5% - BusinessLine",
-            "description": "Sensex, Nifty updates on 21 Aug 2023: Find here all the updates related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 21 August, 2023. BSE Sensex and NSE Nifty gained over 0.4% each on Monday. While BSE Sensex closed 267 pts or 0.41% h…",
-            "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-21-aug-2023/article67217102.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/br66ez/article67217101.ece/alternates/LANDSCAPE_1200/Stock%20Market%20Live%20Today%20-%20Share%20Market.jpg",
-            "publishedAt": "2023-08-21T10:18:45Z",
-            "content": "<li></li>\r\nAugust 21, 2023 16:15Rupee falls 2 paise to close at all-time low of 83.12 against US dollar\r\nThe rupee depreciated by 2 paise and settled for the day at an all-time low of 83.12 (provisio… [+54835 chars]"
+        "author": null,
+        "title": "'My ears are bleeding' - David De Gea, Iker Casillas and Hector Bellerin blast Spain chief Luis Rubiales after he refuses to resign over Jenni Hermoso forced kiss at Women's World Cup - GOAL English",
+        "description": "Get all the latest Soccer news, highlights, scores, schedules, standings and more from Sporting News Canada.",
+        "url": "https://www.sportingnews.com/ca/soccer",
+        "urlToImage": "https://static.sportingnews.com/1.35.1.3/themes/custom/tsn/logo.jpg",
+        "publishedAt": "2023-08-25T13:21:50Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "Express News Service",
-            "title": "Chandrayaan-3 lander establishes communication line with Chandrayaan-2 orbiter - The Indian Express",
-            "description": "Though Chandrayaan-2 had failed to land on the moon’s surface, its orbiter functioned normally and carried out all the experiments as designed.",
-            "url": "https://indianexpress.com/article/technology/science/chandrayaan-3-lander-communication-line-chandrayaan-2-orbiter-8902370/",
-            "urlToImage": "https://images.indianexpress.com/2023/08/chandrayaan-4.jpg",
-            "publishedAt": "2023-08-21T10:17:38Z",
-            "content": "Ahead of its scheduled landing on Wednesday, the lander module of Chandrayaan-3 has established contact with the Chandrayaan-2 orbiter that has been going around the moon for the last four years.Two … [+1824 chars]"
+        "author": "The Indian Express",
+        "title": "Why you need more fish oil than vegetable oil: Omega-3 levels need to be higher than Omega-6 to keep diseases at bay - The Indian Express",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9oZWFsdGgtd2VsbG5lc3MvZmlzaC1vaWwtdGhhbi12ZWdldGFibGUtb2lsLW9tZWdhLTMtbGV2ZWxzLW9tZWdhLTYtZGlzZWFzZXMtODkwNjYwMC_SAXtodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvaGVhbHRoLXdlbGxuZXNzL2Zpc2gtb2lsLXRoYW4tdmVnZXRhYmxlLW9pbC1vbWVnYS0zLWxldmVscy1vbWVnYS02LWRpc2Vhc2VzLTg5MDY2MDAvbGl0ZS8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-08-25T13:16:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Telangana Today"
         },
-        
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Entertainment Desk",
-            "title": "‘Rakhi Sawant was not divorced when she married me,’ says Adil Khan - Hindustan Times",
-            "description": "Rakhi Sawant's husband Adil Khan, who was recently released from judicial custody after arrest on multiple charges by her, shared his side of the story.",
-            "url": "https://www.hindustantimes.com/entertainment/rakhi-sawant-was-not-divorced-when-she-married-me-other-confessions-by-adil-khan-101692608740579.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/rakhi-adil_1653624575952_1692609119238.jpg",
-            "publishedAt": "2023-08-21T09:56:40Z",
-            "content": "Adil Khan, Rakhi Sawant's husband, has come out with his side of the story after the actor has accused him of multiple offences leading to his arrest. In a new interview to Bollywood Bubble, Adil has… [+2925 chars]"
+        "author": "IANS",
+        "title": "Mysterious Neptune dark spot detected from Earth for 1st time - Telangana Today",
+        "description": "On Neptune, a dark spot was first discovered by NASA's Voyager 2 in 1989, before disappearing a few years later",
+        "url": "https://telanganatoday.com/mysterious-neptune-dark-spot-detected-from-earth-for-1st-time",
+        "urlToImage": "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/Neptune.jpg",
+        "publishedAt": "2023-08-25T12:56:12Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": "NDTV Sports Desk",
-            "title": "India's Asia Cup 2023 Highlights, Squad Announcement: India's Asia Cup Squad Named, Jasprit Bumrah, KL Rahul Back, Hardik Pandya Vice-Captain - NDTV Sports",
-            "description": "Asia Cup 2023 Team India Squad Announcement: Pacer Jasprit Bumrah, KL Rahul, and Shreyas Iyer have been named in the team.",
-            "url": "https://sports.ndtv.com/cricket/india-asia-cup-2023-squad-live-updates-india-squad-announcement-selection-on-august-21-full-players-list-updates-4314769",
-            "urlToImage": "https://c.ndtvimg.com/2023-08/ii8dc0o8_rohit-sharma_625x300_21_August_23.jpg",
-            "publishedAt": "2023-08-21T09:54:25Z",
-            "content": "India's Squad Announcement, Asia Cup 2023, Highlights: Indian cricket team's squad for Asia Cup 2023 has been announced. KL Rahul and Shreyas Iyer made their returns from injury. On the other hand, a… [+384 chars]"
+        "author": "Sayantani Biswas",
+        "title": "Punjab governor threatens President's rule, criminal proceeding amid surging tussle with CM Bhagwant Mann | Mint - Mint",
+        "description": "Punjab governor warns chief minister of recommending President's rule and initiating criminal proceedings if no response is generated to his letters. Governor Purohit has advised CM Mann to act before he takes this 'final decision'.",
+        "url": "https://www.livemint.com/news/india/punjab-governor-banwarilal-purohit-threatens-presidents-rule-criminal-proceeding-amid-tussle-with-cm-bhagwant-mann-11692965892119.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/25/600x338/Punjab-chief-minister-Bhagwant-Mann--ANI-file-_1692965922106_1692965941078.jpg",
+        "publishedAt": "2023-08-25T12:33:40Z",
+        "content": "Punjab governor Banwarilal Purohit on Friday has threatened that he would write to president Droupadi Murmu and impose President's rule in the state and initiate criminal proceedings if Aam Aadmi Par… [+2192 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Sanskriti Falor",
-            "title": "Not allowed to meet minor allegedly raped by govt official, DCW chief protests - Hindustan Times",
-            "description": "Swati Maliwal said she wanted to see what Delhi Police was trying to hide and why the DCW chief was not being allowed to meet the survivor and her mother. | Latest News Delhi",
-            "url": "https://www.hindustantimes.com/cities/delhi-news/dcw-chief-protest-denied-meet-minor-girl-allegedly-raped-by-senior-govt-official-101692607968902.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/Capture_1692610508914_1692610515510.PNG",
-            "publishedAt": "2023-08-21T09:49:14Z",
-            "content": "Delhi Commission for Women (DCW) chief Swati Maliwal sat on a protest at a hospital on Monday after she was not allowed to meet the minor girl who had been allegedly raped by a senior government offi… [+2958 chars]"
+        "author": "Soumya Pillai",
+        "title": "ISRO releases first images of Pragyan rover rolling out - Hindustan Times",
+        "description": "Officials confirmed that Prime Minister Narendra Modi is scheduled to meet ISRO chief S Somanath and the team of Chandrayaan-3 scientists on Saturday, soon after returning from Athens in Greece. | Latest News India",
+        "url": "https://www.hindustantimes.com/india-news/indias-chandrayaan-3-rover-successfully-lands-on-moon-s-south-pole-first-images-released-101692966733847.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/25/1600x900/The-Chandrayaan-3-rover-on-the-surface-of-the-moon_1692966724328.png",
+        "publishedAt": "2023-08-25T12:32:13Z",
+        "content": "Two days after the Indian Space Research Organisation (Isro) successfully landed lunar spacecraft Chandrayaan-3 near the moons south pole, making India the first country in the world to achieve this … [+2194 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": null,
-            "title": "Video: Shoe Thrown At Samajwadi Party Leader, Accused Beaten Up - NDTV",
-            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-            "url": "https://www.ndtv.com/news",
-            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-            "publishedAt": "2023-08-21T09:41:16Z",
-            "content": ""
+        "author": "Moneycontrol News",
+        "title": "Adani-Hindenburg case: SEBI submits probe report before SC; 22 out of 24 investigations final - Moneycontrol",
+        "description": "While it didn’t outline the findings, SEBI said it will act based on them. The apex court is scheduled to hear the case on August 29.",
+        "url": "https://www.moneycontrol.com/news/companies-2/adani-hindenburg-case-sebi-tells-supreme-court-it-has-completed-probe-11259251.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/06/Gautam-Adani-1-770x433.jpg",
+        "publishedAt": "2023-08-25T11:46:50Z",
+        "content": "Capital market regulator SEBI on August 25 told Supreme Court that it as completed its probe into whether billionaire Gautam Adanis conglomerate violated securities laws or not and action has been re… [+1860 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": null,
-            "title": "KCR's Party Names Candidates For All 119 Telangana Seats, Only 7 Changes - NDTV",
-            "description": "The ruling Bharat Rashtra Samithi (BRS) today announced the first list of candidates, months ahead of the assembly polls in Telangana later this year. There have been just seven changes.",
-            "url": "https://www.ndtv.com/india-news/kcrs-party-names-candidates-for-all-119-telangana-seats-only-7-changes-4315538",
-            "urlToImage": "https://c.ndtvimg.com/2023-08/a8mk75h_kcr_625x300_21_August_23.jpg",
-            "publishedAt": "2023-08-21T09:37:29Z",
-            "content": "\"We are confident of winning 95 to 105 seats,\" K Chandrashekar Rao said.\r\nHyderabad: The ruling Bharat Rashtra Samithi (BRS) today announced the first list of candidates, months ahead of the assembly… [+1748 chars]"
+        "author": "TIMESOFINDIA.COM",
+        "title": "LG unveils StandbyMe Go for on-the-go entertainment: Features, launch details and more - Times of India",
+        "description": "LG Electronics has launched its latest portable screen, the LG StandbyME Go. The 27-inch touch display comes with a four-channel speaker system integr",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/lg-unveils-standbyme-go-for-on-the-go-entertainment-features-launch-details-and-more/articleshow/103062814.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-103062814,width-1070,height-580,imgsize-4859912,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-08-25T11:39:00Z",
+        "content": "Meta to shut down Messenger Lite app for Android users"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "India Today"
-            },
-            "author": "Kanu Sarda",
-            "title": "Supreme Court allows rape survivor to abort, blasts Gujarat High Court - India Today",
-            "description": "The Supreme Court allowed a rape survivor to terminate her 27-week pregnancy while coming down heavily on the Gujarat High Court's decision to decline the abortion plea.",
-            "url": "https://www.indiatoday.in/law-today/story/supreme-court-allows-minor-rape-survivor-27-weeks-terminate-pregnancy-2424286-2023-08-21",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/supreme-court-allows-rape-survivor-to-abort-210600-16x9.jpeg?VersionId=gMqk2rOrmLZHPujMF9FypmRvGWM_xlrs",
-            "publishedAt": "2023-08-21T09:24:13Z",
-            "content": "The Supreme Court on Monday allowed a rape survivor to terminate her 27-week pregnancy, and came down heavily on the Gujarat High Court for rejecting her petition, saying it was \"against constitution… [+4557 chars]"
+        "author": "HT Sports Desk",
+        "title": "Javelin Throw Highlights, World Athletics C'ships: Neeraj Chopra qualifies - Hindustan Times",
+        "description": "Neeraj Chopra Javelin Throw Event Highlights, World Athletics Championships: Follow here highlights from Budapest in Hungary.",
+        "url": "https://www.hindustantimes.com/sports/others/neeraj-chopra-live-score-mens-javelin-throw-world-athletics-championships-2023-latest-updates-budapest-hungary-101692939615588.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/25/1600x900/ATHLETICS-WORLD--45_1692954053345_1692954163325.JPG",
+        "publishedAt": "2023-08-25T11:36:48Z",
+        "content": "Neeraj Chopra Javelin Throw Event Live Updates, World Athletics Championships: Kishore Jena qualifies!Jena qualifies from Group B, despite not hitting the qualification mark! Nadeem tops Group B with… [+869 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hindu",
+          "name": "The Hindu"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Moneycontrol"
-            },
-            "author": "Tushar Goenka",
-            "title": "CaratLane employees poised to strike gold after sale to Titan; to net Rs 340-380 crore from ESOPs - Moneycontrol",
-            "description": "Over 70 CaratLane employees will receive Rs 340-380 crore in ESOP payout as part of the deal that the startup struck with Titan.",
-            "url": "https://www.moneycontrol.com/news/business/caratlane-employees-poised-to-strike-gold-after-sale-to-titan-11229741.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Mithun-Sacheti-770x433.jpg",
-            "publishedAt": "2023-08-21T08:46:58Z",
-            "content": "CaratLane employees will receive Rs 340 crore-Rs 380 crore in employee stock ownership plan (ESOP) payouts as Titan sets the stage to acquire the remaining stake in the jewellery startup.\r\nCaratLane … [+1976 chars]"
+        "author": "The Hindu",
+        "title": "Russian President Vladimir Putin not to attend New Delhi G20 summit - The Hindu",
+        "description": null,
+        "url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-not-to-attend-g20-summit-in-india/article67234724.ece",
+        "urlToImage": null,
+        "publishedAt": "2023-08-25T11:36:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-hindu",
+          "name": "The Hindu"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Tech",
-            "title": "190-foot Asteroid 2023 PM to make close approach to Earth, says NASA - HT Tech",
-            "description": "According to NASA, an asteroid called 2023 PM is set to make a close approach to Earth tomorrow. Check the asteroid’s speed, size, distance, and more.",
-            "url": "https://tech.hindustantimes.com/photos/190foot-asteroid-2023-pm-to-make-close-approach-to-earth-says-nasa-71692605823563.html",
-            "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/21/1600x900/g357f4_1692605903382_1692605903600.png",
-            "publishedAt": "2023-08-21T08:21:57Z",
-            "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
+        "author": "The Hindu",
+        "title": "Islamabad High Court finds fault in sessions court's verdict against Imran Khan in Toshakhana corruption - The Hindu",
+        "description": null,
+        "url": "https://www.thehindu.com/news/international/islamabad-high-court-finds-fault-in-sessions-courts-verdict-against-imran-khan-in-toshakahna-corruption/article67234723.ece",
+        "urlToImage": null,
+        "publishedAt": "2023-08-25T11:19:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
         },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "ET Online",
-            "title": "Jet Airways’ lenders agree to give Jalan Kalrock Consortium extension till Sep 30 to make payments - The Economic Times",
-            "description": "The committee of creditors (CoC) of bankrupt airline Jet Airways on Monday agreed to give an extension to the payment deadline to the Jalan Kalrock Consortium till September 30, but differed on the mode.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/jet-airways-lenders-agree-to-extension-of-payment-deadline-to-september-30-with-a-caveat/articleshow/102900075.cms",
-            "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102900192,width-1070,height-580,imgsize-36114,overlay-economictimes/photo.jpg",
-            "publishedAt": "2023-08-21T08:16:00Z",
-            "content": "The committee of creditors (CoC) of bankrupt airline Jet Airways on Monday agreed to give an extension to the payment deadline to the Jalan Kalrock Consortium till September 30, but differed on the m… [+1731 chars]"
+        "author": "Parmita Uniyal",
+        "title": "Zika virus in Mumbai: Warning symptoms and prevention tips by experts - Hindustan Times",
+        "description": "A 79-year-old man in Mumbai has been tested positive for Zika virus. From fever to joint pain, here are symptoms of mosquito-borne illness. | Health",
+        "url": "https://www.hindustantimes.com/lifestyle/health/zika-virus-in-mumbai-warning-symptoms-and-prevention-tips-by-experts-101692961030675.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/25/1600x900/zika_1692961093659_1692961093824.jpg",
+        "publishedAt": "2023-08-25T11:11:38Z",
+        "content": "The first case of Zika virus case has been reported in Chembur, Mumbai, said Brihanmumbai Municipal Corporation (BMC). The 79-year-old man suffered from fever, cough and stuffy nose. The mosquito-bor… [+8166 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Moneycontrol"
-            },
-            "author": "Moneycontrol News",
-            "title": "Prakash Raj slammed for post on Chandrayaan-3: 'Mocking our scientists' - Moneycontrol",
-            "description": "Chandrayaan-3: A large section of social media users felt that his post on India's ambitious Moon mission was in bad taste.",
-            "url": "https://www.moneycontrol.com/news/trends/prakash-raj-slammed-for-post-on-chandrayaan-3-mocking-our-scientists-11229681.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2019/05/Prakash_Raj_at_calicut-653x435.jpg",
-            "publishedAt": "2023-08-21T08:14:33Z",
-            "content": "As India awaits the successful landing of the Vikram Lander on the Moon, as part of the ambitious Chandrayaan-3, a tweet by actor Prakash Raj did not go down well with a large section of X (formerly … [+2259 chars]"
+        "author": null,
+        "title": "National Awards: Kriti Sanon's Post For Mimi Co-Star Pankaj Tripathi Is Everything - NDTV Movies",
+        "description": "Pankaj Tripathi dedicated his National Award win to his late father",
+        "url": "https://www.ndtv.com/entertainment/national-awards-kriti-sanons-post-for-mimi-co-star-pankaj-tripathi-is-everything-4329008",
+        "urlToImage": "https://c.ndtvimg.com/2023-08/b9ube3p8_kriti-sanon-_625x300_25_August_23.jpg",
+        "publishedAt": "2023-08-25T10:48:14Z",
+        "content": "Pankaj Tripathi with Mimi co-star Kriti Sanon. (courtesy: kritisanon)\r\nNew Delhi: Mimi stars Kriti Sanon and Pankaj Tripathi won big at the 69th National Film Awards. Kriti Sanon shares her Best Actr… [+1535 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Gadgets360.com"
-            },
-            "author": "Himani Jha, Siddharth Suvarna",
-            "title": "GoPro Hero 12 Black Renders, Specifications Surface Online Ahead of Expected Launch - Gadgets 360",
-            "description": "GoPro Hero 12 Black will reportedly be launched next month. The company is yet to share any details on the same, however, the renders and specifications of the action camera have recently leaked online. The GoPro Hero 12 Black has been tipped to come with sim…",
-            "url": "https://www.gadgets360.com/cameras/news/gopro-hero-12-black-design-renders-specifications-leak-launch-expected-4315191",
-            "urlToImage": "https://i.gadgets360cdn.com/large/gopro_hero_11_black_mini_creator_edition_first_look_COVER_gadgets360_1663163378265.jpg",
-            "publishedAt": "2023-08-21T07:55:48Z",
-            "content": "GoPro is reportedly planning to launch the next iteration of its action camera, GoPro Hero 12 Black, soon in the market. The purported GoPro Hero 12 Black has been tipped to debut as early as next mo… [+2043 chars]"
+        "author": "Reuters",
+        "title": "'Absolute lie': Russia on claims of killing Wagner chief Yevgeny Prigozhin - Hindustan Times",
+        "description": "Dmitry Peskov said that an investigation into the plane crash in which Putin has said that Prigozhin and his associates were killed, is ongoing. | World News",
+        "url": "https://www.hindustantimes.com/world-news/absolute-lie-russia-on-claims-of-killing-wagner-chief-yevgeny-prigozhin-101692959677926.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/25/1600x900/UKRAINE-CRISIS--WAGNER-0_1690520859300_1692959932919.JPG",
+        "publishedAt": "2023-08-25T10:39:04Z",
+        "content": "The Kremlin said that Western suggestions Russian mercenary boss Yevgeny Prigozhin had been killed on its orders were an \"absolute lie\" while declining to definitively confirm his death, citing the n… [+3645 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Onmanorama.com"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Deccan Herald"
-            },
-            "author": "LAKSHMI M.S",
-            "title": "Dr. Jennifer Ashton Keto BHB Gummies: Updated Warning 2023 | Official Reviews - Deccan Herald",
-            "description": "Discover the latest insights about Dr. Jennifer Ashton Keto BHB Gummies with our updated warning for 2023. Read authentic official reviews to make an informed decision about these gummies. Stay informed and make the right choice for your health journey",
-            "url": "https://www.deccanherald.com/brandspot/sponsored-health/dr-jennifer-ashton-keto-bhb-gummies-updated-warning-2023-watch-official-reviews-2654640",
-            "urlToImage": "https://images.deccanherald.com/deccanherald%2F2023-08%2F9248d4a7-762f-41f3-b302-2fe4d31b93bf%2FJA_Keto_Gummies__1_.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-            "publishedAt": "2023-08-21T06:32:03Z",
-            "content": "All around the planet, people are conscious of their physique. Remaining slim and fit is the dream of every person, and having a slim body like a celebrity is an obsession among women. To achieve thi… [+7221 chars]"
-        }
+        "author": "Onmanorama Staff",
+        "title": "Delay in paying fees: TVM school principal makes Class 7 student sit on floor to write exam | Thiruvananthapuram | Onmanorama - Onmanorama",
+        "description": "The boy's father alleged that he was also humiliated by the principal when he called him to enquire about the harassment incident.",
+        "url": "https://www.onmanorama.com/news/kerala/2023/08/25/non-payment-fees-vellayambalam-school-boy-exam-floor-principal.html",
+        "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/kerala/top-news/images/2023/8/25/vellayambalam-student-floor-incident.jpg",
+        "publishedAt": "2023-08-25T10:37:53Z",
+        "content": "Thiruvananthapuram: The principal of a school in Vellayambalam made a Class 7 boy write his term examination sitting on the floor, the youngster's family alleged on Friday. Allegedly, the boy was ask… [+1697 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "Bloomberg",
+        "title": "Zepto becomes India's first 2023 unicorn, raises $200M at $1.4B valuation - Hindustan Times",
+        "description": "Zepto, an instant grocery startup founded by a duo of Stanford University dropouts, both 20, raised fresh funds at a $1.4 billion valuation.",
+        "url": "https://www.hindustantimes.com/business/zepto-raises-200m-at-1-4b-valuation-two-stanford-dropouts-create-indias-first-2023-unicorn-101692958538918.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/25/1600x900/Zepto_1692959048948_1692959049337.jpg",
+        "publishedAt": "2023-08-25T10:32:18Z",
+        "content": "Zepto, an instant grocery startup founded by a duo of Stanford University dropouts, both 20, raised fresh funds at a $1.4 billion valuation, creating a rare Indian unicorn amid a gloomy venture fundi… [+2329 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Navdeep Singh",
+        "title": "Investors lose Rs 1.93 lakh crore as Sensex tumbles 365 points; Powell’s speech eyed - The Economic Times",
+        "description": "The slide in domestic equities on Friday also came after the minutes of the RBI's latest policy meeting flagged near-term risks to inflation due to a recent spike in food prices and a liquidity overhang in the banking system. Investors now await Federal Reser…",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-for-second-day-tumbles-365-points-powells-speech-eyed/articleshow/103059759.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103059769,width-1070,height-580,imgsize-268482,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-08-25T10:26:00Z",
+        "content": "Ahead of Fed Chair Jerome Powell's speech at Jackson Hole that has left traders and investors worried over further possible interest hikes, Indian equity markets ended in the red for the second strai… [+3733 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Dipak K Dash",
+        "title": "Indore tops in Smart City contest, Surat & Agra rank 2nd and 3rd - Recipes",
+        "description": "India News: Indore has bagged the best “National Smart City Award” for exemplary performance among the 100 smart cities in the fourth edition since the Central go",
+        "url": "https://timesofindia.indiatimes.com/india/indore-tops-in-smart-city-contest-surat-agra-rank-2nd-and-3rd/articleshow/103058228.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-103058464,width-1070,height-580,imgsize-145642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-08-25T09:57:00Z",
+        "content": "Adipurush, Interstellar, Kalki 2898 AD: Films more expensive than Chandrayaan-3 moon mission"
+      }
     ]
-}
+  }
