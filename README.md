@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2 align="center">Communiqué – Your Voice in the News World</h2>
+  <h1 align="center">Communiqué – Your Voice in the News World</h1>
 
   Fully responsive news website, <br />Responsive for all devices, built using HTML, CSS, Bootstrap, JavaScript, & Reactjs.
 
