@@ -1,13 +1,3 @@
-<div align="center">
-
-  <h1 align="center">Communiqué – Your Voice in the News World</h1>
-
-  Fully responsive news website, <br />Responsive for all devices, built using HTML, CSS, Bootstrap, JavaScript, & Reactjs.
-
-  <a href="https://jb786.github.io/Communique-News-App/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
 
 # Getting Started with Create React App
 
