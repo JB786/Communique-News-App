@@ -5,7 +5,7 @@ export class Spinner extends Component {
   render() {
     return (
       <div className="text-center">
-        <img className='my-4' src={loader} alt="Loading..." />
+        <img className='my-4' src={loader} alt="Loading..." style={{filter: "invert(0.1)"}} />
       </div>
     )
   }
