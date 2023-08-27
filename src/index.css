@@ -1,3 +1,5 @@
 html,body{
+    height: 100vh;
     background: linear-gradient(216deg, #dbd807, #eb5555, #f6fa20) no-repeat center center/cover;
 }
+

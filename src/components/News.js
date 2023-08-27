@@ -36,7 +36,7 @@ export class News extends Component {
 
     async updateNews() {
         this.props.setProgress(10)
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.state.pageSize}`
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=167488a9927846cb99614892a694c93d&page=${this.state.page}&pageSize=${this.state.pageSize}`
         this.setState({
             loading: true,
         })
@@ -65,7 +65,7 @@ export class News extends Component {
         // Delay for 500 milliseconds before fetching more data, without this line of code more articles will not load.
         await new Promise(resolve => setTimeout(resolve, 500));
 
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.state.pageSize}`
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=167488a9927846cb99614892a694c93d&page=${this.state.page}&pageSize=${this.state.pageSize}`
         let fetchData = await fetch(url)
         let parsedData = await fetchData.json()
 
