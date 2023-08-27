@@ -3,7 +3,7 @@ import './App.css';
 import React, { Component } from 'react'
 import NavBar from './components/NavBar';
 import News from './components/News';
-import { BrowserRouter as Router, Routes, Route} from "react-router-dom"
+import { HashRouter as Router, Routes, Route} from "react-router-dom"
 import About from './components/About';
 import LoadingBar from 'react-top-loading-bar';
 
@@ -44,6 +44,9 @@ export class App extends Component {
 export default App
 
 // Added a top loading bar using npm install react-top-loading-bar in our application and the necessary components like state, setProgress, <LoadingBar/> then we can pass it as a props in news.js updateNews().
+
+
+// We use HashRouter instead of BrowerRouter so that github-pages will handle it through hashRouting not throw error 404.
 
 
 
